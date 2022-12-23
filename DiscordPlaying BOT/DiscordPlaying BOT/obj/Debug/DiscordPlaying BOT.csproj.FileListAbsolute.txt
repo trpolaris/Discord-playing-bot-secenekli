@@ -1,0 +1,22 @@
+C:\Users\Administrator\Documents\Proje\Applications\DiscordPlaying BOT\DiscordPlaying BOT\bin\Debug\DiscordPlaying BOT.exe.config
+C:\Users\Administrator\Documents\Proje\Applications\DiscordPlaying BOT\DiscordPlaying BOT\bin\Debug\DiscordPlaying BOT.exe
+C:\Users\Administrator\Documents\Proje\Applications\DiscordPlaying BOT\DiscordPlaying BOT\bin\Debug\DiscordPlaying BOT.pdb
+C:\Users\Administrator\Documents\Proje\Applications\DiscordPlaying BOT\DiscordPlaying BOT\obj\Debug\DiscordPlaying BOT.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Proje\Applications\DiscordPlaying BOT\DiscordPlaying BOT\obj\Debug\DiscordPlaying BOT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\Proje\Applications\DiscordPlaying BOT\DiscordPlaying BOT\obj\Debug\DiscordPlaying_BOT.Form1.resources
+C:\Users\Administrator\Documents\Proje\Applications\DiscordPlaying BOT\DiscordPlaying BOT\obj\Debug\DiscordPlaying_BOT.Properties.Resources.resources
+C:\Users\Administrator\Documents\Proje\Applications\DiscordPlaying BOT\DiscordPlaying BOT\obj\Debug\DiscordPlaying BOT.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Proje\Applications\DiscordPlaying BOT\DiscordPlaying BOT\obj\Debug\DiscordPlaying BOT.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Proje\Applications\DiscordPlaying BOT\DiscordPlaying BOT\obj\Debug\DiscordPlaying BOT.exe
+C:\Users\Administrator\Documents\Proje\Applications\DiscordPlaying BOT\DiscordPlaying BOT\obj\Debug\DiscordPlaying BOT.pdb
+C:\Users\Administrator\Documents\Visual studio 2022 proje\DiscordPlaying BOT - Seçenekli\DiscordPlaying BOT\bin\Debug\DiscordPlaying BOT.exe.config
+C:\Users\Administrator\Documents\Visual studio 2022 proje\DiscordPlaying BOT - Seçenekli\DiscordPlaying BOT\bin\Debug\DiscordPlaying BOT.exe
+C:\Users\Administrator\Documents\Visual studio 2022 proje\DiscordPlaying BOT - Seçenekli\DiscordPlaying BOT\bin\Debug\DiscordPlaying BOT.pdb
+C:\Users\Administrator\Documents\Visual studio 2022 proje\DiscordPlaying BOT - Seçenekli\DiscordPlaying BOT\obj\Debug\DiscordPlaying BOT.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Visual studio 2022 proje\DiscordPlaying BOT - Seçenekli\DiscordPlaying BOT\obj\Debug\DiscordPlaying BOT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\Visual studio 2022 proje\DiscordPlaying BOT - Seçenekli\DiscordPlaying BOT\obj\Debug\DiscordPlaying_BOT.Form1.resources
+C:\Users\Administrator\Documents\Visual studio 2022 proje\DiscordPlaying BOT - Seçenekli\DiscordPlaying BOT\obj\Debug\DiscordPlaying_BOT.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual studio 2022 proje\DiscordPlaying BOT - Seçenekli\DiscordPlaying BOT\obj\Debug\DiscordPlaying BOT.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual studio 2022 proje\DiscordPlaying BOT - Seçenekli\DiscordPlaying BOT\obj\Debug\DiscordPlaying BOT.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual studio 2022 proje\DiscordPlaying BOT - Seçenekli\DiscordPlaying BOT\obj\Debug\DiscordPlaying BOT.exe
+C:\Users\Administrator\Documents\Visual studio 2022 proje\DiscordPlaying BOT - Seçenekli\DiscordPlaying BOT\obj\Debug\DiscordPlaying BOT.pdb
